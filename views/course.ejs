@@ -1,0 +1,17 @@
+<a href="/courses">Back</a>
+<% if(course) { %>
+    <h1>
+        <%= course.name %>
+    </h1>
+    <h3>
+        <%= course.description %>
+    </h3>
+    <h3>$
+        <% course.base_price %>
+    </h3>
+    <h3>
+        <%= course.length %>
+    </h3>
+    <% } else { %>
+        <h1>none</h1>
+        <% } %>

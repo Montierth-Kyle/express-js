@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Intro to Javascript",
+        "base_price": 500,
+        "description": "An introduction to learning the most commonly used coding language.",
+        "length": "9 weeks",
+        "other_attributes": null
+  },
+    {
+        "id": 2,
+        "name": "CSS Styling",
+        "base_price": 500,
+        "description": "Learn how to style the web.",
+        "length": "9 weeks",
+        "other_attributes": null
+  },
+    {
+        "id": 3,
+        "name": "Front End Web Development",
+        "base_price": 1000,
+        "description": "Putting Javascript and CSS into action.",
+        "length": "12 weeks",
+        "other_attributes": null
+  }
+]
